@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Hello 2015"
+title:      "Hello 2018"
 subtitle:   " \"Hello World, Hello Blog\""
-date:       2015-01-29 12:00:00
-author:     "Hux"
+date:       2018-11-21 12:00:00
+author:     "GuangWu"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
@@ -16,7 +16,7 @@ tags:
 
 ## 前言
 
-Hux 的 Blog 就这么开通了。
+GuangWu 的 Blog 就这么开通了。
 
 [跳过废话，直接看技术实现 ](#build) 
 
